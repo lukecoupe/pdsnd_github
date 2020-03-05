@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+16.02.2020
 
 ### Project Title
-Replace the Project Title
+Udacity-final-project
 
 ### Description
-Describe what your project is about and what it does
+Post your work on Github
 
 ### Files used
-Include the files used
+Bikesharedata/
+washington.csv
+chicago.csv
+new_york_city.csv
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Luke Coupe
 
