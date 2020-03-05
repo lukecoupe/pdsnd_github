@@ -15,5 +15,5 @@ new_york_city.csv
 bikeshare.py
 
 ### Credits
-Luke Coupe
+Luke Coupe <lukecoupe@hotmail.co.uk>
 
